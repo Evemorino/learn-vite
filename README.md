@@ -20,4 +20,9 @@
 生成svg雪碧图
 
 # env 环境变量
-vite的环境变量
+vite的环境变量 
+使用import.meta.env导入
+通过loadEnv导入
+
+# lint 规则
+## eslint
